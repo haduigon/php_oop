@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55bb44f4-f460-4f1d-b824-7cfad7c0151a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/smarty/smarty" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jgSzEYQQW25bwXt6Y0hh08AGxK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/1.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.1.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55bb44f4-f460-4f1d-b824-7cfad7c0151a" name="Default Changelist" comment="" />
+      <created>1604224502661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604224502661</updated>
+      <workItem from="1604224504929" duration="3452000" />
+      <workItem from="1604237090634" duration="2768000" />
+      <workItem from="1604255714904" duration="56000" />
+      <workItem from="1604315420863" duration="13884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="250" y="53" key="#CLI_Interpreters" timestamp="1604416481795">
+      <screen x="43" y="23" width="1237" height="777" />
+    </state>
+    <state x="250" y="53" key="#CLI_Interpreters/43.23.1237.777@43.23.1237.777" timestamp="1604416481795" />
+    <state x="331" y="41" key="#PHP" timestamp="1604416508482">
+      <screen x="43" y="23" width="1237" height="777" />
+    </state>
+    <state x="331" y="41" key="#PHP/43.23.1237.777@43.23.1237.777" timestamp="1604416508482" />
+    <state x="261" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604352667317">
+      <screen x="43" y="23" width="1237" height="777" />
+    </state>
+    <state x="261" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.23.1237.777@43.23.1237.777" timestamp="1604352667317" />
+    <state x="262" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/44.23.1236.777@44.23.1236.777" timestamp="1604352032442" />
+    <state width="1193" height="184" key="GridCell.Tab.0.bottom" timestamp="1604418895759">
+      <screen x="44" y="23" width="1236" height="777" />
+    </state>
+    <state width="1193" height="184" key="GridCell.Tab.0.bottom/43.23.1237.777@43.23.1237.777" timestamp="1604416666176" />
+    <state width="1193" height="184" key="GridCell.Tab.0.bottom/44.23.1236.777@44.23.1236.777" timestamp="1604418895759" />
+    <state width="1193" height="184" key="GridCell.Tab.0.center" timestamp="1604418895758">
+      <screen x="44" y="23" width="1236" height="777" />
+    </state>
+    <state width="1193" height="184" key="GridCell.Tab.0.center/43.23.1237.777@43.23.1237.777" timestamp="1604416666174" />
+    <state width="1193" height="184" key="GridCell.Tab.0.center/44.23.1236.777@44.23.1236.777" timestamp="1604418895758" />
+    <state width="1193" height="184" key="GridCell.Tab.0.left" timestamp="1604418895758">
+      <screen x="44" y="23" width="1236" height="777" />
+    </state>
+    <state width="1193" height="184" key="GridCell.Tab.0.left/43.23.1237.777@43.23.1237.777" timestamp="1604416666174" />
+    <state width="1193" height="184" key="GridCell.Tab.0.left/44.23.1236.777@44.23.1236.777" timestamp="1604418895758" />
+    <state width="1193" height="184" key="GridCell.Tab.0.right" timestamp="1604418895759">
+      <screen x="44" y="23" width="1236" height="777" />
+    </state>
+    <state width="1193" height="184" key="GridCell.Tab.0.right/43.23.1237.777@43.23.1237.777" timestamp="1604416666176" />
+    <state width="1193" height="184" key="GridCell.Tab.0.right/44.23.1236.777@44.23.1236.777" timestamp="1604418895759" />
+    <state x="392" y="124" key="NewPhpClassDialog" timestamp="1604353188469">
+      <screen x="43" y="23" width="1237" height="777" />
+    </state>
+    <state x="392" y="124" key="NewPhpClassDialog/43.23.1237.777@43.23.1237.777" timestamp="1604353188469" />
+    <state x="482" y="321" key="NewPhpFileDialog" timestamp="1604411599038">
+      <screen x="43" y="23" width="1237" height="777" />
+    </state>
+    <state x="482" y="321" key="NewPhpFileDialog/43.23.1237.777@43.23.1237.777" timestamp="1604411599038" />
+    <state x="482" y="321" key="NewPhpFileDialog/44.23.1236.777@44.23.1236.777" timestamp="1604233691926" />
+    <state x="483" y="321" key="NewPhpFileDialog/45.23.1235.777@45.23.1235.777" timestamp="1604239278611" />
+    <state x="164" y="30" key="SettingsEditor" timestamp="1604237271349">
+      <screen x="44" y="23" width="1236" height="777" />
+    </state>
+    <state x="164" y="30" key="SettingsEditor/44.23.1236.777@44.23.1236.777" timestamp="1604237271349" />
+  </component>
+</project>
